@@ -35,3 +35,6 @@ Ce projet met en œuvre des méthodes numériques de **Simulation de Monte-Carlo
 
 Pour consulter les démonstrations théoriques et l'analyse détaillée du risque :  
 👉 **[Consulter le rapport complet (PDF)](./monte_carlo_var.pdf)**)**
+## 📊 Aperçu des Résultats
+
+![Distribution des pertes](./monte_carlo_var.png)
