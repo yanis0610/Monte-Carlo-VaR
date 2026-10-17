@@ -7,8 +7,8 @@ Ce projet met en œuvre des méthodes numériques de **Simulation de Monte-Carlo
 ## 📌 Contenu du Projet
 
 - **`monte_carlo_var.py`** : Script Python réalisant la simulation stochastique (10 000 simulations) et le calcul des centiles de perte (VaR).
-- **`monte_carlo_var_results.png`** : Histogramme de la distribution des pertes avec seuils de confiance.
-- **`report.pdf`** : Rapport académique rédigé en $\LaTeX$ détaillant le cadre mathématique et l'analyse du risque.
+- **`monte_carlo_var.png`** : Histogramme de la distribution des pertes avec seuils de confiance.
+- **`monte_carlo_var.pdf`** : Rapport académique rédigé en $\LaTeX$ détaillant le cadre mathématique et l'analyse du risque.
 
 ## 🛠️ Technologies Utilisées
 
