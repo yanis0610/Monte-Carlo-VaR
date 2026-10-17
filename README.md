@@ -1,3 +1,5 @@
+# Simulation de Monte-Carlo & Calcul de la Value at Risk (VaR)
+
 
 
 Ce projet met en œuvre des méthodes numériques de **Simulation de Monte-Carlo** pour l'estimation de la **Value at Risk (VaR 95% et 99%)** d'un actif financier sur un horizon de 30 jours, basée sur le **Mouvement Brownien Géométrique (GBM)**.
